@@ -33,15 +33,15 @@ while (exibirMenu)
             break;
 
         case "3":
-            ly.Removerlivros();
+            ly.RemoverLivros();
             break;
 
         case "4":
-            ly.Removerlivros();
+            ly.EntradaEstoque();
             break;
         
         case "5":
-            ly.Removerlivros();
+            ly.SaidaEstoque();
             break;
 
         case "0":

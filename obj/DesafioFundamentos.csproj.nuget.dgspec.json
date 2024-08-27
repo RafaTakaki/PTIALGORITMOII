@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Takaki\\Desktop\\Senac\\2°Semestre\\Algoritmo II\\PTI\\trilha-net-fundamentos-desafio-estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj": {}
+    "C:\\Users\\Takaki\\Desktop\\Senac\\2°Semestre\\Algoritmo II\\PTI\\PTIALGORITMOII\\PTI\\Fundamentos\\DesafioFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Takaki\\Desktop\\Senac\\2°Semestre\\Algoritmo II\\PTI\\trilha-net-fundamentos-desafio-estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj": {
+    "C:\\Users\\Takaki\\Desktop\\Senac\\2°Semestre\\Algoritmo II\\PTI\\PTIALGORITMOII\\PTI\\Fundamentos\\DesafioFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Takaki\\Desktop\\Senac\\2°Semestre\\Algoritmo II\\PTI\\trilha-net-fundamentos-desafio-estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\Takaki\\Desktop\\Senac\\2°Semestre\\Algoritmo II\\PTI\\PTIALGORITMOII\\PTI\\Fundamentos\\DesafioFundamentos.csproj",
         "projectName": "DesafioFundamentos",
-        "projectPath": "C:\\Users\\Takaki\\Desktop\\Senac\\2°Semestre\\Algoritmo II\\PTI\\trilha-net-fundamentos-desafio-estacionamento\\DesafioFundamentos\\DesafioFundamentos.csproj",
+        "projectPath": "C:\\Users\\Takaki\\Desktop\\Senac\\2°Semestre\\Algoritmo II\\PTI\\PTIALGORITMOII\\PTI\\Fundamentos\\DesafioFundamentos.csproj",
         "packagesPath": "C:\\Users\\Takaki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Takaki\\Desktop\\Senac\\2°Semestre\\Algoritmo II\\PTI\\trilha-net-fundamentos-desafio-estacionamento\\DesafioFundamentos\\obj\\",
+        "outputPath": "C:\\Users\\Takaki\\Desktop\\Senac\\2°Semestre\\Algoritmo II\\PTI\\PTIALGORITMOII\\PTI\\Fundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Takaki\\AppData\\Roaming\\NuGet\\NuGet.Config"
